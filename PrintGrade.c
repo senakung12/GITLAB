@@ -12,7 +12,8 @@ void main()
   for (i=0;i<N; i++)
     printf("%5d %-25s %5.2f\n", ID[i], Name[i], GPA[i]); 
   printf("-------------------------------------\n");
-  printf("Enter Student ID to Search (0 to End): "); 
+  printf("Enter Student ID to Search (0 to End): ");
+  printf("I am trow keep on you kub eiei koi eng na"); 
   scanf("%d", &SearchID); 
   while (SearchID)
   {
